@@ -1,0 +1,35 @@
+.dsi{
+    font-size: 25px;
+    display: flex;
+margin: 0px 80px;
+    align-items: center;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    text-align: center;
+
+    font-size: 20xp;
+    margin: 0px 30px;
+}
+.h1{
+    font-size: 40px;
+    
+}
+.div{
+    gap: 60px;
+    margin: 0px 33px;
+
+}
+.displey{
+    display: flex;
+justify-content: center;
+}
+.img{
+    width: 450px;
+    
+}
+.text{
+    width: 500px;
+}
